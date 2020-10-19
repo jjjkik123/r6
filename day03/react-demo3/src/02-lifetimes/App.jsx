@@ -38,7 +38,7 @@ class App extends Component {
     // console.log(this.staticState.c)
     return (
       <div>
-        <Child title={ this.state.a } />
+        <Child title={this.state.a} />
       </div>
     );
   }
